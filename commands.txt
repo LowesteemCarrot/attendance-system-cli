@@ -1,0 +1,17 @@
+attendance register
+
+Register a new student + capture face encoding from webcam.
+
+Usage: attendance register "<student_name>" <student_id>
+
+attendance scan
+
+Starts webcam and marks attendance of recognized students.
+
+Usage: attendance scan
+
+attendance export
+
+Exports attendance data into a CSV file.
+
+Usage: attendance export

@@ -1,0 +1,5 @@
+click
+opencv-python
+face_recognition
+mysql-connector-python
+rich

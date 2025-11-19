@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: attendance-cli
+Version: 1.0.0
+Requires-Dist: click
+Requires-Dist: opencv-python
+Requires-Dist: face_recognition
+Requires-Dist: mysql-connector-python
+Requires-Dist: rich
+Dynamic: requires-dist
